@@ -82,14 +82,14 @@ A step by step series of examples that tell you how to get a development env run
 
 ## :pencil2: Authors <a name="authors"></a>
 
-- [Anurag Ghosh](https://www.linkedin.com/in/kulkarniishan)
-- [Ishan Kulkarni](https://www.linkedin.com/in/anurag-g-a01531198)
 - [Dhruv Solanki](https://www.linkedin.com/in/dhruv-solanki-4a3a491b2/)
+- [Ishan Kulkarni](https://www.linkedin.com/in/anurag-g-a01531198)
+- [Anurag Ghosh](https://www.linkedin.com/in/kulkarniishan)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-built-using-a-name--built_usinga)
 ## :brain: Contribution over Time <a name="contribution"></a>
 <div align="center">
- <a href="https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=kulkarniishan/MOOC-App">
-  <img src="https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=kulkarniishan/MOOC-App" alt="Contribution image"/>
+ <a href="https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Dhruvsolanki345/Concept-Capsule">
+  <img src="https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Dhruvsolanki345/Concept-Capsule" alt="Contribution image"/>
  </a>
 </div>
